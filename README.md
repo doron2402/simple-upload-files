@@ -1,2 +1,10 @@
-# http2-static-server
-HTTP2 statis server for uploading files
+# Simple File Uploader
+
+### End-Points
+- [POST] /upload
+  Upload single or multiple files
+- [GET] /form
+  Get html upload form
+- all other endpoint will return 404
+
+
